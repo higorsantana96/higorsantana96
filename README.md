@@ -1,6 +1,6 @@
 ### Hi, i'm Higor Santana! 👋
 
-### Sobre o Higor
+### About me
 #### Experience
 
 Studying systems analysis and development(2023 - 2025)
