@@ -2,6 +2,9 @@
 
 ### Sobre o Higor
 #### Experience
+
+Studying systems analysis and development(2023 - 2025)
+
 JavaScript - Studying
 
 TypeScript - Studying
