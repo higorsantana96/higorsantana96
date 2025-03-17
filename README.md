@@ -1,37 +1,49 @@
-### Hi, i'm Higor Santana! 👋
+# 🧑🏻‍💻 Higor Santana
 
-### About me
-#### Experience
+**`Desenvolvedor Front-end`**
 
-Studying systems analysis and development(2023 - 2025)
+### Olá, Me chamo Higor Santana, tenho 29 anos e sou natural de Pedrinhas Paulista-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no 5º (5/5) na Universidade Estásio de Sá.
 
-JavaScript - Studying
+  <p>
+ <a href="https://github.com/Higorsantana96?tab=followers">
+         <img 
+         alt="seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/Higorsantana96?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/></a>
+      <a href="https://github.com/Higorsantana96?tab=repositories&sort=stargazers">
+         <img 
+         alt="total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Higorsantana96?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+   </p>
+ 
+ ---
+ 
+ ### 🤖 Linguagens e Tecnologias
 
-TypeScript - Studying
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-React - Studying
-
-### Languages
-
-Portuguese native Speaker
-
-Learning english
-
-###Detalhes
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorsantana96&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-status)
-
-### Projeto
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=higorsantana96&repo=Tik-Tok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Languages used
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorsantana96)](https://github.com/anuraghazra/github-readme-stats)
-
-### Contacts
-
-[<img scr='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/higorsantanadev/)
+<br/>
+<br/>
 
 
 
+### 📊 Estatísticas
+
+ <p>
+   <img 
+     align="left" 
+     alt="GitHub Stats" 
+     height="200" 
+     style="padding-right: 10px;" 
+     src="https://github-readme-stats.vercel.app/api?username=Higorsantana96&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+   />
+ 
+ <img 
+       align="left" 
+       alt="GitHub Stats" 
+       height="200" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorsantana96&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+   />
+
+ </p>
