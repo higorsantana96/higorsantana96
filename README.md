@@ -11,7 +11,7 @@
       <a href="https://github.com/Higorsantana96?tab=repositories&sort=stargazers">
          <img 
          alt="total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Higorsantana96?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
-   </p>
+   </p> 
  
  ---
  
